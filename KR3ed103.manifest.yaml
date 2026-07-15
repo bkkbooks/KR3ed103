@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3ed103/v1
 canonical_location: https://kanripo.org/bkk/KR3ed103/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 急救便方
   identifiers:
@@ -16,9 +16,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ed103_000.yaml, hash: 'sha256:1f43e67ec5a3ead2c457220cf2caedae12d898f8d8749ffd244e8acc8f546380'}
+  - {seq: 0, filename: KR3ed103_000.yaml, hash: 'sha256:00aaa6037c07bb3dffe338d2828cf4520c5f0f85a6ded36e26071c60801e116b'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ed103_000.markers.yaml, hash: 'sha256:15150f716406d6cf1cf74d8c3f2277373fb3c22357cc586dc43f98518eaac060'}
+  - {seq: 0, role: markers, filename: assets/KR3ed103_000.markers.yaml, hash: 'sha256:99fb93cc088e2e66ba058b3043eeb7bce14cc2db051746eea101874fecfb4c41'}
 table_of_contents:
 - ref:
     seq: 0
@@ -1720,4 +1720,7 @@ table_of_contents:
   label: 野芋毒
   type: section
   level: 1
-hash: sha256:d5d5f480c3d4318f77899fa504c0c2390da4af451c7e6a1aeb8827b3f55e5c51
+hash: sha256:244e83feb3b97831d8dbafa8472a06075bbdfcd25c519191bd2f813c59bfc413
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
