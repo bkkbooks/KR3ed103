@@ -18,7 +18,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3ed103_000-jc.yaml, hash: 'sha256:1f43e67ec5a3ead2c457220cf2caedae12d898f8d8749ffd244e8acc8f546380'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ed103_000-jc.markers.yaml, hash: 'sha256:f0df03b2d0eccc90f4dbf2329e8eed480ada262cb23b853e9394e327d62c34b8'}
+  - {seq: 0, role: markers, filename: assets/KR3ed103_000-jc.markers.yaml, hash: 'sha256:9f5ce08e2e8d5761340d0cfe9052c8b8a5ae80e017927fcb0b75226d55dfc1e0'}
 table_of_contents:
 - ref:
     seq: 0
@@ -1720,4 +1720,4 @@ table_of_contents:
   label: 野芋毒
   type: section
   level: 1
-hash: sha256:2eb5fc5522d36297b1ae04b204213913c00f345d56d05e9b2f29e14c067e30e5
+hash: sha256:8f63e31cb879332aeb890a4fc6393e3d59111af12ad9e7be52fd6eb461a4a35f
